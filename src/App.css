@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+
+.messagesBlock {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 5px;
+}
